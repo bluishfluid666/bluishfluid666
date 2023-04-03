@@ -1,11 +1,9 @@
-### Hi there, I'm [DEREK](https://github.com/dereknguyen269) 👋
+### Hello world, I'm [KHANG NGUYEN](https://github.com/bluishfluid666) 👋
 
-🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
-👨‍💻 I’m currently working as a Software Developer.<br/>
-🔭 I’m currently working on my pet projects.<br/>
-🌱 I’m currently learning English 🤦‍♂.<br/>
-☕️ I’m coffeer. <br/>
-⚡ Bla bla bla...
+🏠 Based in HCM City, Vietnam 🇻🇳. A proud Saigonese <br/>
+👨‍💻 Aspiring software engineer and solutions architect (Cut both ways).<br/>
+🚀 Journey to the Cloud ⛅️.<br/>
+🌱 Language learning: Mandarin.<br/>
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
 
