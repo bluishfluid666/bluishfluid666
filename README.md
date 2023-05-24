@@ -3,7 +3,7 @@
 🏠 Based in HCM City, Vietnam 🇻🇳. A proud Saigonese <br/>
 👨‍💻 Aspiring software engineer and solutions architect (Cut both ways).<br/>
 🚀 Journey to the Cloud ⛅️.<br/>
-🌱 Language learning: Mandarin.<br/>
+🌱 Hobby: Basketball 🏀.<br/>
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
 
