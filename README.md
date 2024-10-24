@@ -1,7 +1,8 @@
 ### Hello world, I'm [KHANG NGUYEN](https://github.com/bluishfluid666) 👋
 
-🏠 Based in HCM City, Vietnam 🇻🇳 <br/>
-👨‍💻 Aspiring software engineer and solutions architect.<br/>
+🏠 Based in Ho Chi Minh City, Vietnam 🇻🇳 <br/>
+👨‍💻 Aspiring software engineer and solution architect.<br/>
+❤️‍🔥 Interests: Large Language Model Security, Deep Learning, Cloud Computing, Distributed Systems
 🚀 Journey to the Cloud ⛅️.<br/>
 🌱 Hobby: Basketball 🏀.<br/>
 
