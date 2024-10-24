@@ -2,7 +2,7 @@
 
 🏠 Based in Ho Chi Minh City, Vietnam 🇻🇳 <br/>
 👨‍💻 Aspiring software engineer and solution architect.<br/>
-❤️‍🔥 Interests: Large Language Model Security, Deep Learning, Cloud Computing, Distributed Systems
+❤️‍🔥 Interests: Large Language Model Security, Deep Learning, Cloud Computing, Distributed Systems <br/>
 🚀 Journey to the Cloud ⛅️.<br/>
 🌱 Hobby: Basketball 🏀.<br/>
 
