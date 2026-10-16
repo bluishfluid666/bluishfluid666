@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.svg">
-  <img src="assets/banner/banner-light.svg" width="100%" alt="A sunlit solarpunk city of garden-covered towers and wind turbines. On a rooftop garden, a small mended drone named SOL-9 is about to plant a seedling, beside the name Nguyen Manh Khang, AI Safety.">
-</picture>
+<img src="assets/banner/banner-light.svg" width="100%" alt="A sunlit solarpunk city in a futurist northern Vietnamese style: garden-covered towers of curved terracotta and solar-glass roofs, a brick tiered tower, rooftop wind turbines and lanterns. On a rooftop garden, a small mended drone named SOL-9 is about to plant a seedling, beside the name Nguyen Manh Khang, AI Safety.">
 
 <h3 align="center">NGUYEN MANH KHANG // AI SAFETY</h3>
 <p align="center"><i>AI is humanitarian at core.</i></p>
