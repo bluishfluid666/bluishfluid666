@@ -46,4 +46,15 @@
 
 <img src="assets/ui/divider-vine.svg" width="100%" alt="">
 
+### ☀ OPERATOR'S CREED
+<sub><code>[SOL-9] operator keeps this one taped above the potting bench.</code></sub>
+
+<p align="center"><i>Stop looking for signs. Signs follow; they do not precede. Begin to reverse the statement, “Seeing is believing,” to “Believing is seeing.” Start now to believe, not with the wavering confidence based on deceptive external evidence but with an undaunted confidence based on the immutable law that you can be that which you desire to be. You will find that you are not a victim of fate but a victim of faith (your own).
+</i></p>
+<p align="center"><sub>— Neville Goddard</sub></p>
+
+<img src="assets/ui/divider-vine.svg" width="100%" alt="">
+
+
 <p align="center"><sub>transmitted from the rooftop gardens · SOL-9 says hi</sub></p>
+
