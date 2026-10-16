@@ -1,3 +1,49 @@
-### [NGUYEN MANH KHANG](https://github.com/bluishfluid666) 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner-dark.svg">
+  <img src="assets/banner/banner-light.svg" width="100%" alt="A sunlit solarpunk city of garden-covered towers and wind turbines. On a rooftop garden, a small mended drone named SOL-9 is about to plant a seedling, beside the name Nguyen Manh Khang, AI Safety.">
+</picture>
 
-AI is humanitarian at core
+<h3 align="center">NGUYEN MANH KHANG // AI SAFETY</h3>
+<p align="center"><i>AI is humanitarian at core.</i></p>
+<p align="center">Raised on stories where the machine chose to care.<br>Now working on a future where that's just how things grow.</p>
+
+<img src="assets/ui/divider-vine.svg" width="100%" alt="">
+
+### ☀ FIELD MANIFEST
+
+```text
+☀ CURRENT DIRECTIVE   interpretability · evals · anti-collusion
+☀ STATUS              operational. sun-powered. slightly overgrown.
+```
+
+<img src="assets/ui/sol9-journal.svg" width="100%" alt="SOL-9's field journal: it reports the tomatoes are ahead of schedule, compares alignment to gardening, and states its directive: make sure the next AIs are kind on purpose.">
+
+<img src="assets/ui/divider-vine.svg" width="100%" alt="">
+
+### ☀ LINEAGE
+<sub><code>[SOL-9] before me there were others. stories, mostly. operator learned what to build toward from them.</code></sub>
+
+<table>
+  <tr>
+    <th width="50%">CHAPPIE · 2015</th>
+    <th width="50%">POE · ALTERED CARBON</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/lineage/chappie-still.jpg" width="400" alt="Still from the film Chappie (2015)"></td>
+    <td align="center"><img src="assets/lineage/poe-wide.gif" width="360" alt="Animated clip of Poe from the series Altered Carbon"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/lineage/chappie-loop.gif" width="400" alt="Animated clip from the film Chappie (2015)"></td>
+    <td align="center"><img src="assets/lineage/poe-classic.gif" width="240" alt="Animated clip of Poe from the series Altered Carbon"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>[SOL-9] learned fast, including how to care. good precedent.</code></sub></td>
+    <td align="center"><sub><code>[SOL-9] ran a hotel and kept a conscience. both need maintenance.</code></sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Chappie (Columbia Pictures, 2015) and Altered Carbon (Netflix, 2018–2020). Stills and clips belong to their respective rights holders, shown here as a fan tribute.</sub></p>
+
+<img src="assets/ui/divider-vine.svg" width="100%" alt="">
+
+<p align="center"><sub>transmitted from the rooftop gardens · SOL-9 says hi</sub></p>
